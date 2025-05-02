@@ -2,7 +2,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
   font-family: Arial, sans-serif;
+=======
+>>>>>>> 8a5e28e (Fix stylesheet link path in index.html and add style.css)
 }
 
 body {
@@ -102,4 +105,8 @@ p {
    .col-sm-9 {
    	width: 25%;
    }
+<<<<<<< HEAD
  }
+=======
+ }
+>>>>>>> 8a5e28e (Fix stylesheet link path in index.html and add style.css)
